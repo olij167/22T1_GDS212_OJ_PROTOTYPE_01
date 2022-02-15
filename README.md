@@ -7,8 +7,8 @@ Earn points based on how closely you stick to your list (and budget)!
 
 Controls:
 
-Move with W,A,S,D
+- Move with W,A,S,D
 
-Use the mouse to look around
+- Use the mouse to look around
 
-Looking at an item within range will add it to the cart
+- Looking at an item within range will add it to the cart
